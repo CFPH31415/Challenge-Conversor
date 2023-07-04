@@ -35,8 +35,11 @@ public class App {
                     if (cambio == null) {
                         break; // Regresar al menú principal
                     }
-
-                    String input = JOptionPane.showInputDialog("Ingrese la cantidad en soles peruanos: ");
+                    
+                String input = JOptionPane.showInputDialog("Ingrese la cantidad en soles peruanos: ");
+                  if (input == null) {
+                        continue; // Regresar al menú principal
+                    }
                     double soles;
                     try {
                         soles = Double.parseDouble(input);
@@ -96,6 +99,9 @@ public class App {
                     }
 
                     String input = JOptionPane.showInputDialog("Ingrese el valor de temperatura: ");
+                      if (input == null) {
+                        continue; // Regresar al menú principal
+                    }
                     double temperatura;
                     try {
                         temperatura = Double.parseDouble(input);
@@ -152,6 +158,9 @@ public class App {
                     }
 
                     String input = JOptionPane.showInputDialog("Ingrese el valor de tiempo: ");
+                      if (input == null) {
+                        continue; // Regresar al menú principal
+                    }
                     double tiempo;
                     try {
                         tiempo = Double.parseDouble(input);
@@ -207,6 +216,9 @@ public class App {
                     }
 
                     String input = JOptionPane.showInputDialog("Ingrese el valor de velocidad: ");
+                      if (input == null) {
+                        continue; // Regresar al menú principal
+                    }
                     double velocidad;
                     try {
                         velocidad = Double.parseDouble(input);
@@ -255,6 +267,9 @@ public class App {
                     }
 
                     String input = JOptionPane.showInputDialog("Ingrese el valor de peso/masa: ");
+                      if (input == null) {
+                        continue; // Regresar al menú principal
+                    }
                     double peso;
                     try {
                         peso = Double.parseDouble(input);
@@ -299,6 +314,9 @@ public class App {
                     }
 
                     String input = JOptionPane.showInputDialog("Ingrese el valor de volumen: ");
+                      if (input == null) {
+                        continue; // Regresar al menú principal
+                    }
                     double volumen;
                     try {
                         volumen = Double.parseDouble(input);
