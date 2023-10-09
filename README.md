@@ -1,18 +1,20 @@
-## Getting Started
+# Funcionalidades
+1) Conversor de Monedas
+2) Conversor de Temperatura
+3) Conversor de Tiempo 
+4) Conversor de Velocidad
+5) Conversor de Peso/Masa
+6) Conversor de Volumen
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+ # Video de muestra
 
-## Folder Structure
+ https://www.linkedin.com/posts/carlos-portillo-hern%C3%A1ndez-027270259_java-oracle-activity-7080691430481907712-9_74?utm_source=share&utm_medium=member_desktop
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+🧡 <strong>Oracle</strong></br>
+<a href="https://www.linkedin.com/company/oracle/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+💙 <strong>Alura Latam</strong></br>
+<a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
